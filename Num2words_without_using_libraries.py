@@ -31,6 +31,6 @@ while True:
                print('The number',num,'in words =',num_2[S1])
          else:
             print('Enter the number between the 0 to 100 range')
-            word(int(number))
+      word(int(number))
    except:
       print('Please enter the number')
